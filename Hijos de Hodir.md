@@ -7,7 +7,7 @@ Empiezas ayudando a un grupo de NPCs capturados, luego descubres que los Hijos d
 - Liberar prisioneros
 - Ganarte la confianza de los gigantes
 - Resolver conflictos internos
-- Finalmente, logras restaurar la facción y desbloquearla como aliada.
+- Finalmente, logras restaurar la facción y desbloquearla como aliada
 
 Los Hijos de Hodir en Wow LK ofrecen los encantamientos de hombros más importantes (enchant bis) de la versión, estos se desbloquean en Reverenciado.
 
