@@ -24,7 +24,6 @@ A partir de ese momento podrás comenzar a subir reputación realizando las misi
 Secuencia de Misiones para Reputación y desbloqueo de diarias:
 
 
-|----------|----------|----------|----------|
 | [¡Se llevaron a nuestros hombres!](http://es.wowhead.com/quest=12843) | [Ningún goblin se queda atrás](http://es.wowhead.com/quest=12846) | [El trato de la vieja bruja](http://es.wowhead.com/quest=12841) | [Mildred la Cruel](http://es.wowhead.com/quest=12905) |
 | [Disciplina](http://es.wowhead.com/quest=12906) | [Castigos ejemplares](http://es.wowhead.com/quest=12907) | [Un prisionero concreto](http://es.wowhead.com/quest=12908) | [Un cambio de escenario](http://es.wowhead.com/quest=12921) |
 | [¿Es ese tu goblin?](http://es.wowhead.com/quest=12969) | [El Encuentro Hyldnir](http://es.wowhead.com/quest=12970) | [Enfrentarse a todos los retos](http://es.wowhead.com/quest=12971) | [Necesitarás un oso](http://es.wowhead.com/quest=12972) | [A lomos de la osa](http://es.wowhead.com/quest=12851) | [Corazón helado](http://es.wowhead.com/quest=12856) |
