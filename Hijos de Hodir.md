@@ -23,26 +23,50 @@ A partir de ese momento podrás comenzar a subir reputación realizando las misi
 
 Secuencia de Misiones para Reputación y desbloqueo de diarias:
 
-| Columna 1 | Columna 2 |
-|----------|----------|
-| [¡Se llevaron a nuestros hombres!](http://es.wowhead.com/quest=12843) | [Ningún goblin se queda atrás](http://es.wowhead.com/quest=12846) |
-| [El trato de la vieja bruja](http://es.wowhead.com/quest=12841) | [Mildred la Cruel](http://es.wowhead.com/quest=12905) |
-| [Disciplina](http://es.wowhead.com/quest=12906) | [Castigos ejemplares](http://es.wowhead.com/quest=12907) |
-| [Un prisionero concreto](http://es.wowhead.com/quest=12908) | [Un cambio de escenario](http://es.wowhead.com/quest=12921) |
-| [¿Es ese tu goblin?](http://es.wowhead.com/quest=12969) | [El Encuentro Hyldnir](http://es.wowhead.com/quest=12970) |
-| [Enfrentarse a todos los retos](http://es.wowhead.com/quest=12971) | [Necesitarás un oso](http://es.wowhead.com/quest=12972) |
-| [A lomos de la osa](http://es.wowhead.com/quest=12851) | [Corazón helado](http://es.wowhead.com/quest=12856) |
-| [Demostrar el valor](http://es.wowhead.com/quest=13063) | [Hacer un arnés](http://es.wowhead.com/quest=12900) |
-| [La última de su raza](http://es.wowhead.com/quest=12983) | [La oscuridad reptadora](https://www.wowhead.com/wotlk/es/quest=12989/la-oscuridad-reptadora) |
-| [El calentamiento](http://es.wowhead.com/quest=12996) | [Al foso](http://es.wowhead.com/quest=12997) |
-| [Prepárate para la gloria](http://es.wowhead.com/quest=13061) | [El regalo de despedida de Lok’lira](http://es.wowhead.com/quest=13062) |
-| [El Drakquensryd](http://es.wowhead.com/quest=12886) | [Rivalidad fraternal](http://es.wowhead.com/quest=13064) |
-| [Enmiendas](http://es.wowhead.com/quest=12915) | [El fuego del refinador](http://es.wowhead.com/quest=12922) |
-| [Una chispa de esperanza](http://es.wowhead.com/quest=12956) | [Forjando una Alianza](http://es.wowhead.com/quest=12924) |
-| [No tiene pérdida](http://es.wowhead.com/quest=12966) | [Luchar contra los elementales](http://es.wowhead.com/quest=12967) |
-| [Un nuevo comienzo](http://es.wowhead.com/quest=13009) | [Veranus](http://es.wowhead.com/quest=13050) |
-| [Violación territorial](http://es.wowhead.com/quest=13051) | [Krolmir, el Martillo de las Tormentas](http://es.wowhead.com/quest=13010) |
-| [Jormuttar está taaan gorda...](https://www.wowhead.com/es/quest=13011/jorcuttar-debe-morir) | [El Bancal de los Creadores](http://es.wowhead.com/quest=13057) |
+[¡Se llevaron a nuestros hombres!](http://es.wowhead.com/quest=12843)  
+[Ningún goblin se queda atrás](http://es.wowhead.com/quest=12846)  
+[El trato de la vieja bruja](http://es.wowhead.com/quest=12841)  
+[Mildred la Cruel](http://es.wowhead.com/quest=12905)  
+
+[Disciplina](http://es.wowhead.com/quest=12906)  
+[Castigos ejemplares](http://es.wowhead.com/quest=12907)  
+[Un prisionero concreto](http://es.wowhead.com/quest=12908)  
+[Un cambio de escenario](http://es.wowhead.com/quest=12921)  
+
+[¿Es ese tu goblin?](http://es.wowhead.com/quest=12969)  
+[El Encuentro Hyldnir](http://es.wowhead.com/quest=12970)  
+[Enfrentarse a todos los retos](http://es.wowhead.com/quest=12971)  
+[Necesitarás un oso](http://es.wowhead.com/quest=12972)  
+
+[A lomos de la osa](http://es.wowhead.com/quest=12851)  
+[Corazón helado](http://es.wowhead.com/quest=12856)  
+[Demostrar el valor](http://es.wowhead.com/quest=13063)  
+[Hacer un arnés](http://es.wowhead.com/quest=12900)  
+
+[La última de su raza](http://es.wowhead.com/quest=12983)  
+[La oscuridad reptadora](https://www.wowhead.com/wotlk/es/quest=12989/la-oscuridad-reptadora)  
+[El calentamiento](http://es.wowhead.com/quest=12996)  
+[Al foso](http://es.wowhead.com/quest=12997)  
+
+[Prepárate para la gloria](http://es.wowhead.com/quest=13061)  
+[El regalo de despedida de Lok’lira](http://es.wowhead.com/quest=13062)  
+[El Drakquensryd](http://es.wowhead.com/quest=12886)  
+[Rivalidad fraternal](http://es.wowhead.com/quest=13064)  
+
+[Enmiendas](http://es.wowhead.com/quest=12915)  
+[El fuego del refinador](http://es.wowhead.com/quest=12922)  
+[Una chispa de esperanza](http://es.wowhead.com/quest=12956)  
+[Forjando una Alianza](http://es.wowhead.com/quest=12924)  
+
+[No tiene pérdida](http://es.wowhead.com/quest=12966)  
+[Luchar contra los elementales](http://es.wowhead.com/quest=12967)  
+[Un nuevo comienzo](http://es.wowhead.com/quest=13009)  
+[Veranus](http://es.wowhead.com/quest=13050)  
+
+[Violación territorial](http://es.wowhead.com/quest=13051)  
+[Krolmir, el Martillo de las Tormentas](http://es.wowhead.com/quest=13010)  
+[Jormuttar está taaan gorda...](https://www.wowhead.com/es/quest=13011/jorcuttar-debe-morir)  
+[El Bancal de los Creadores](http://es.wowhead.com/quest=13057)
 
 Ahora, una vez desbloqueemos todas las misiones, podremos realizar de forma diaria las siguientes misiones: 
 
